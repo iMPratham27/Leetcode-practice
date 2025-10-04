@@ -1,4 +1,3 @@
-package Linkedlist;
 
 import java.util.*;
 

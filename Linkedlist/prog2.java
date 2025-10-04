@@ -1,4 +1,3 @@
-package Linkedlist;
 
 class Node {
     int data;
@@ -9,7 +8,7 @@ class Node {
     }
 }
 
-class List {
+class MyList {
     Node head = null;
 
     void addFirst(int data) {
@@ -67,13 +66,13 @@ class MergeSortedLists {
     }
 
     public static void main(String[] args) {
-        List l1 = new List();
+        MyList l1 = new MyList();
         l1.addFirst(40);
         l1.addFirst(15);
         l1.addFirst(10);
         l1.addFirst(5);
 
-        List l2 = new List();
+        MyList l2 = new MyList();
         l2.addFirst(20);
         l2.addFirst(3);
         l2.addFirst(2);

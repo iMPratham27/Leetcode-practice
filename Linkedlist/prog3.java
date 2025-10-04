@@ -1,4 +1,3 @@
-package Linkedlist;
 
 class ListNode {
     int data;
