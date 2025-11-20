@@ -1,5 +1,3 @@
-package Trees;
-
 // depth is of a node and maxDepth is of whole tree
 
 class DepthOfTree {

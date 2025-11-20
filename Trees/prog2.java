@@ -1,4 +1,3 @@
-package Trees;
 
 // Longest path (in edges) from a node down to a leaf.
 

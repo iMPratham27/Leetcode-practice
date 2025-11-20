@@ -1,5 +1,3 @@
-package Trees;
-
 // inOrder arrange the nodes in sorted order
 
 class KthSmallestInBST {

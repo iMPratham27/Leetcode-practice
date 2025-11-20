@@ -1,5 +1,3 @@
-package Trees;
-
 // BST => { left < root < right }
 
 class BST {

@@ -1,5 +1,3 @@
-package Trees;
-
 /*
     The diameter of a tree is the longest path (in edges) between any two nodes in the tree.
     This path may or may not pass through the root.

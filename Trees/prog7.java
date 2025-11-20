@@ -1,4 +1,3 @@
-package Trees;
 
 class InvertTree {
     public TreeNode invertTree(TreeNode root) {
